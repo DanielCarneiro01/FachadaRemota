@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\RemotingFacade\RemotingFacade\bin\Debug\RemotingFacade.dll
+C:\Users\Daniel\Desktop\RemotingFacade\RemotingFacade\bin\Debug\RemotingFacade.pdb
+C:\Users\Daniel\Desktop\RemotingFacade\RemotingFacade\obj\Debug\RemotingFacade.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\RemotingFacade\RemotingFacade\obj\Debug\RemotingFacade.dll
+C:\Users\Daniel\Desktop\RemotingFacade\RemotingFacade\obj\Debug\RemotingFacade.pdb

@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorInterface", "CalculatorInterface\CalculatorInterface.csproj", "{96173F46-C173-4DED-A2DD-32BFB68022B0}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{EDDC967B-517B-4BF6-98F4-567B74625266}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{09F3C005-F78B-4E3B-BBA0-AE775DF81E3B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Calculator Projects", "Calculator Projects", "{E4A6896B-60A0-4CF7-A87F-538D154336C8}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RemotingFacade", "RemotingFacade", "{C562C5E0-8069-4A00-AA14-8190DB88E88C}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemotingFacade", "RemotingFacade\RemotingFacade.csproj", "{C228162C-42FC-43A2-BC55-6885B7B92726}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96173F46-C173-4DED-A2DD-32BFB68022B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96173F46-C173-4DED-A2DD-32BFB68022B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96173F46-C173-4DED-A2DD-32BFB68022B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96173F46-C173-4DED-A2DD-32BFB68022B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDDC967B-517B-4BF6-98F4-567B74625266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDC967B-517B-4BF6-98F4-567B74625266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDC967B-517B-4BF6-98F4-567B74625266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDC967B-517B-4BF6-98F4-567B74625266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F3C005-F78B-4E3B-BBA0-AE775DF81E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F3C005-F78B-4E3B-BBA0-AE775DF81E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F3C005-F78B-4E3B-BBA0-AE775DF81E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F3C005-F78B-4E3B-BBA0-AE775DF81E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C228162C-42FC-43A2-BC55-6885B7B92726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C228162C-42FC-43A2-BC55-6885B7B92726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C228162C-42FC-43A2-BC55-6885B7B92726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C228162C-42FC-43A2-BC55-6885B7B92726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C228162C-42FC-43A2-BC55-6885B7B92726} = {C562C5E0-8069-4A00-AA14-8190DB88E88C}
+		{EDDC967B-517B-4BF6-98F4-567B74625266} = {E4A6896B-60A0-4CF7-A87F-538D154336C8}
+		{09F3C005-F78B-4E3B-BBA0-AE775DF81E3B} = {E4A6896B-60A0-4CF7-A87F-538D154336C8}
+		{96173F46-C173-4DED-A2DD-32BFB68022B0} = {E4A6896B-60A0-4CF7-A87F-538D154336C8}
+	EndGlobalSection
+EndGlobal

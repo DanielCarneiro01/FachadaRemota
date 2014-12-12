@@ -1,0 +1,4 @@
+C:\Users\Daniel\Desktop\RemotingFacade\CalculatorInterface\bin\Debug\CalculatorInterface.dll
+C:\Users\Daniel\Desktop\RemotingFacade\CalculatorInterface\bin\Debug\CalculatorInterface.pdb
+C:\Users\Daniel\Desktop\RemotingFacade\CalculatorInterface\obj\Debug\CalculatorInterface.dll
+C:\Users\Daniel\Desktop\RemotingFacade\CalculatorInterface\obj\Debug\CalculatorInterface.pdb

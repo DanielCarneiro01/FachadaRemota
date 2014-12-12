@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\RemotingFacade\Server\bin\Debug\Server.exe
+C:\Users\Daniel\Desktop\RemotingFacade\Server\bin\Debug\Server.pdb
+C:\Users\Daniel\Desktop\RemotingFacade\Server\bin\Debug\CalculatorInterface.dll
+C:\Users\Daniel\Desktop\RemotingFacade\Server\bin\Debug\RemotingFacade.dll
+C:\Users\Daniel\Desktop\RemotingFacade\Server\bin\Debug\CalculatorInterface.pdb
+C:\Users\Daniel\Desktop\RemotingFacade\Server\bin\Debug\RemotingFacade.pdb
+C:\Users\Daniel\Desktop\RemotingFacade\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\RemotingFacade\Server\obj\Debug\Server.exe
+C:\Users\Daniel\Desktop\RemotingFacade\Server\obj\Debug\Server.pdb

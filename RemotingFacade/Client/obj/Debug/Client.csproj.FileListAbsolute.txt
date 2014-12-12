@@ -1,0 +1,8 @@
+C:\Users\Daniel\Desktop\RemotingFacade\Client\bin\Debug\Client.exe
+C:\Users\Daniel\Desktop\RemotingFacade\Client\bin\Debug\Client.pdb
+C:\Users\Daniel\Desktop\RemotingFacade\Client\bin\Debug\CalculatorInterface.dll
+C:\Users\Daniel\Desktop\RemotingFacade\Client\bin\Debug\RemotingFacade.dll
+C:\Users\Daniel\Desktop\RemotingFacade\Client\bin\Debug\CalculatorInterface.pdb
+C:\Users\Daniel\Desktop\RemotingFacade\Client\bin\Debug\RemotingFacade.pdb
+C:\Users\Daniel\Desktop\RemotingFacade\Client\obj\Debug\Client.exe
+C:\Users\Daniel\Desktop\RemotingFacade\Client\obj\Debug\Client.pdb
