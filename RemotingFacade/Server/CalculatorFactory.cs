@@ -2,7 +2,7 @@ using System;
 
 using CalculatorInterface;
 using RemotingFacade;
-
+//cria calculadora remota
 namespace Server
 {
     public class CalculatorFactory : MarshalByRefObject, IRemotedFactory<ICalculator>
