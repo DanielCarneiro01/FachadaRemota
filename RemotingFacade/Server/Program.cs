@@ -10,6 +10,7 @@ namespace Server
         private static void Run()
         {
             using (
+                //chamada remota
                 RemotingServer<Calculator, CalculatorFactory> server =
                     new RemotingServer<Calculator, CalculatorFactory>(
                         Formatter.Binary,
